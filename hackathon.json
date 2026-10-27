@@ -1,0 +1,18 @@
+{
+  "teamCode": "TEAM-ONEPIECE",
+  "teamName": "Straw Hat Pirates",
+  "members": [
+    {
+      "name": "Integrante 1",
+      "code": "U20230001"
+    },
+    {
+      "name": "Integrante 2",
+      "code": "U20230002"
+    },
+    {
+      "name": "Integrante 3",
+      "code": "U20230003"
+    }
+  ]
+}
